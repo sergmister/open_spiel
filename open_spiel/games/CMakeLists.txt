@@ -41,6 +41,8 @@ set(GAME_SOURCES
   efg_game_data.h
   first_sealed_auction.cc
   first_sealed_auction.h
+  geodesic_y.cc
+  geodesic_y.h
   gin_rummy.cc
   gin_rummy.h
   gin_rummy/gin_rummy_utils.cc
